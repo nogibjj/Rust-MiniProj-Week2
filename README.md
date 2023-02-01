@@ -1,5 +1,8 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Rust mini project
+This mini project allows you to input a string and return you all the permutations of your string
+
+# Usage
+cargo run -- --input <INPUT>
 
 ## References
 
